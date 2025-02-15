@@ -1,5 +1,5 @@
 # Webdev_infotech_prodigy
-Here's the rewritten text with your name, emojis, and details about your work schedule:
+
 
 Hi, I'm Vishnu Vardhan 🙋‍♂. Here are the details of my Prodigy Infotech internship:
 
